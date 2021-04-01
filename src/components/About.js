@@ -26,10 +26,9 @@ function About() {
         <button><a className="linkdec" href={resume} target="_blank" rel="nonreferrer">My Resume</a></button>
       </div>
       <h2>Social Media</h2>
-      <a href="https://github.com/cycy6"></a>
-      <i className="fab fa-github icons2"></i>
-      <a href="www.linkedin.com/in/cyril-g-0824291b0"></a>
-      <i className="fab fa-github icons2"></i>
+      <a href="www.linkedin.com/in/cyril-g-0824291b0" class="fa fa-linkedin"></a>
+      <a href="https://www.instagram.com/travelcycology" class="fa fa-instagram"></a>
+      <a href="https://github.com/cycy6" class="fa fa-github"></a>
     </div>
  </div>
  </>
