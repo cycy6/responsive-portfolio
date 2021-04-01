@@ -1,0 +1,60 @@
+.container {
+    padding-top: 60px;
+    font-family: 'Proxima Nova', sans-serif;
+    position: relative;
+    padding-bottom: 15px;
+}
+
+p, h1, h2 {
+    color: #ffffff
+}
+
+.img-fluid {
+    height: 250px;
+    border-radius: 25px;
+}
+
+.row {
+    justify-content: center;
+}
+
+.prof {
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.icons {
+    color: white;
+    padding: 15px;
+    font-size: 75px;
+    margin: 18px;
+    border: 1px solid rgb(37, 150, 190);
+    border-radius: 5px;
+}
+
+.icons2 {
+    color: white;
+    padding: 8px;
+    font-size: 30px;
+    margin: 10px;
+    border: 1px solid rgb(37, 150, 190);
+    border-radius: 5px;
+    margin-bottom: 65px;
+}
+
+button {
+    background-color: rgb(37, 150, 190);
+    padding: 15px;
+    border-radius: 25px;
+}
+button:hover {
+    transition: all .2s ease-in-out;
+    transform: scale(1.1);
+    background-color: rgb(37, 150, 190);
+}
+
+.linkdec {
+    text-decoration: none;
+    color: rgb(27, 5, 78);
+}

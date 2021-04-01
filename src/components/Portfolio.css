@@ -1,0 +1,28 @@
+.cardsize {
+    max-width: 540px;
+    margin: 1%;
+    margin-top: 100px;
+    border-radius: 15px;
+}
+
+.imgcard{
+    width: 175px;
+    margin-top: 10px;
+    transition: all .2s ease-in-out;
+    border-radius: 5px;
+}
+.imgcard:hover{
+    transform: scale(1.1); 
+}
+
+.card-text{
+    color: #ffffff;
+}
+
+.pagebody {
+    height: 100vh;
+}
+
+.card-title {
+    color:#ffffff
+}
